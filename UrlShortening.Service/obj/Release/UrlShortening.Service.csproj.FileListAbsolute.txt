@@ -1,0 +1,17 @@
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Service.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Service.pdb
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\AutoMapper.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Domain.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Repository.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\EntityFramework.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Domain.pdb
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Repository.pdb
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\AutoMapper.xml
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\EntityFramework.xml
+F:\Projects\UrlShortening\UrlShortening.Service\obj\Release\UrlShortening.Service.csprojResolveAssemblyReference.cache
+F:\Projects\UrlShortening\UrlShortening.Service\obj\Release\UrlShortening.Service.dll
+F:\Projects\UrlShortening\UrlShortening.Service\obj\Release\UrlShortening.Service.pdb
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Infrastructure.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\log4net.dll
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\UrlShortening.Infrastructure.pdb
+F:\Projects\UrlShortening\UrlShortening.Service\bin\Release\log4net.xml

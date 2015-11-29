@@ -1,0 +1,57 @@
+﻿@model UrlShortening.Web.Models.ShortenUrlViewModel
+
+
+<div class="jumbotron">
+    <div class="">
+        @if (!string.IsNullOrWhiteSpace(ViewBag.Message))
+        {
+            <span class="lead">Ooops!<br/>@ViewBag.Message<br/><br /></span>
+        }
+        @using (Html.BeginForm(null, null, FormMethod.Post, new {id = "shortenUrlForm", @class = "form-inline"}))
+        {
+            @Html.HiddenFor(model => model.Stamp)
+
+            @Html.EditorFor(model => model.Url, new {htmlAttributes = new {@class = "form-control input-lg", placeholder = "Paste a link to shorten it"}})
+            @Html.ValidationMessageFor(model => model.Url, "", new {@class = "text-danger"})
+            <button id="btnShorten" class="btn btn-primary btn-lg" data-loading-text="Loading..." autocomplete="off">Shorten URL</button>
+
+            <div class="hidden">
+                @Html.EditorFor(model => model.Pot)
+            </div>
+        }
+    </div>
+</div>
+<div class="row">
+    <!--Shortened UR Request Result Placed inside container below-->
+    <div id="shortenedUrlContainer" class="col-xs-12">
+
+    </div>
+</div>
+@section Scripts {
+    <!--Jquery Templating Library-->
+    <script src="/Scripts/jQuery.tmpl.min.js"></script>
+    <!--Jquery Validation Libraries-->
+    @Scripts.Render("~/bundles/jquery-validation")
+    <!--Page Javascript Script-->
+    <script src="/Scripts/Views/home.js"></script>
+
+    <!--Success Result Template-->
+    <script type="text/x-jquery-tmpl" id="shortUrlTemplate">
+
+        <div class="bg-info container">
+            <h4>Great! You've shortened your URL</h4>
+            <h4>
+                <pre><span class="lead">${ shortUrl }</span><br /><span>links to: ${ actualUrl }</span></pre>
+            </h4>
+        </div>
+
+    </script>
+    <!--Failure Result Template-->
+    <script type="text/x-jquery-tmpl" id="requestErrorTemplate">
+
+        <div class="bg-danger container">
+            <div class="lead">Ooops! {{html message }}</div>
+        </div>
+
+    </script>
+}

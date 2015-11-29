@@ -1,0 +1,45 @@
+
+ 2015-11-29 19:55:52,613 [7] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 19:58:34,562 [8] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 19:58:53,167 [12] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 19:59:19,442 [12] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 20:17:58,140 [27] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 20:18:28,285 [30] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 20:19:29,047 [33] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 20:20:17,012 [23] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79
+
+ 2015-11-29 20:20:53,435 [23] ERROR UrlShortening.Infrastructure.Infrastraucture.Logger - Retrieve URL by Actual Url Error : 
+ 
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at UrlShortening.Repository.Repository.UrlRepository.<RetrieveByUrlAsync>d__e.MoveNext() in f:\Projects\UrlShortening\UrlShortening.Repository\Repository\UrlRepository.cs:line 79

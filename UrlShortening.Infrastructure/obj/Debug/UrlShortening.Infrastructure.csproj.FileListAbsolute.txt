@@ -1,0 +1,7 @@
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Debug\UrlShortening.Infrastructure.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Debug\UrlShortening.Infrastructure.pdb
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Debug\log4net.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Debug\log4net.xml
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\obj\Debug\UrlShortening.Infrastructure.csprojResolveAssemblyReference.cache
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\obj\Debug\UrlShortening.Infrastructure.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\obj\Debug\UrlShortening.Infrastructure.pdb

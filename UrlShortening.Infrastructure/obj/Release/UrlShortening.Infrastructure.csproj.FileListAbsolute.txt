@@ -1,0 +1,6 @@
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Release\UrlShortening.Infrastructure.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Release\UrlShortening.Infrastructure.pdb
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Release\log4net.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\bin\Release\log4net.xml
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\obj\Release\UrlShortening.Infrastructure.dll
+F:\Projects\UrlShortening\UrlShortening.Infrastructure\obj\Release\UrlShortening.Infrastructure.pdb

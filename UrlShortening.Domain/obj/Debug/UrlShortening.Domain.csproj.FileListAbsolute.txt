@@ -1,0 +1,5 @@
+F:\Projects\UrlShortening\UrlShortening.Domain\bin\Debug\UrlShortening.Domain.dll
+F:\Projects\UrlShortening\UrlShortening.Domain\bin\Debug\UrlShortening.Domain.pdb
+F:\Projects\UrlShortening\UrlShortening.Domain\obj\Debug\UrlShortening.Domain.dll
+F:\Projects\UrlShortening\UrlShortening.Domain\obj\Debug\UrlShortening.Domain.pdb
+F:\Projects\UrlShortening\UrlShortening.Domain\obj\Debug\UrlShortening.Domain.csprojResolveAssemblyReference.cache
